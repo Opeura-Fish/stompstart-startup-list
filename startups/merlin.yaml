@@ -1,0 +1,58 @@
+name: Merlin
+tagline: Coding agents that run inside the tools a team already uses
+description: >-
+  Merlin runs Claude Code and Codex for a team, started from the apps the team
+  already works in. A request can come from Slack, Linear or GitHub, and the
+  agent runs on a machine the team controls rather than on a vendor's servers.
+  Every run appears in a shared view, so teammates can follow progress, read
+  what the agent produced and step in when a run needs help. The web app keeps
+  setup, run history and connection status for the machines involved.
+problem: A coding agent runs on one person's machine, so the rest of the team cannot see it or steer it.
+audience:
+  - Product and engineering teams
+  - Teams running coding agents at work
+website: https://usemerlin.ai/
+access:
+  - kind: signup
+    url: https://usemerlin.ai/
+categories:
+  - ai-and-agents
+  - developer-tools
+  - productivity
+stage: live
+pricing:
+  model: freemium
+  pricing_url: https://usemerlin.ai/pricing
+platforms:
+  - web
+  - macos
+  - windows
+links:
+  - kind: blog
+    url: https://usemerlin.ai/blog
+logo:
+  path: logo.png
+  alt: The Merlin app icon, a white mark on a purple gradient square
+sources:
+  - url: https://usemerlin.ai/
+    title: Merlin official website
+  - url: https://usemerlin.ai/apple-icon.png
+    title: Original Merlin app icon from the website
+  - url: https://usemerlin.ai/changelog
+    title: Merlin changelog
+  - url: https://usemerlin.ai/blog/introducing-merlin
+    title: Introducing Merlin
+launch:
+  title: Merlin introduces coding agents inside the tools a team already uses
+  summary: >-
+    The Merlin team published an introduction to running Claude Code and Codex
+    from the apps a team already works in, with each run visible in a shared
+    workspace and agents executing on the team's own machines.
+  occurred_on:
+    precision: day
+    value: "2026-09-25"
+  date_basis: announced
+  source:
+    url: https://usemerlin.ai/blog/introducing-merlin
+    title: "Introducing Merlin: Rethinking agents in collaborative workspaces"
+    locator: The publication line beside the post heading reads September 25, 2026.
